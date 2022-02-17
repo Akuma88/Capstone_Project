@@ -12,7 +12,7 @@ dockerpath=newappimage
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 docker login --username akuma88
-docker tag testappv2image akuma88/newappimage
+docker tag newappimage akuma88/newappimage
 # Step 3:
 # Push image to a docker repository
 docker push akuma88/newappimage
