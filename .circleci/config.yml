@@ -168,5 +168,5 @@ workflows:
           requires: [linting-new]
       - deployment:
           requires: [build-image-new]
-      - rolling-update:
-          requires: [deployment]
+#      - rolling-update:
+#          requires: [deployment]
