@@ -1,5 +1,8 @@
 # Capstone_Project
 
+![image](https://user-images.githubusercontent.com/60229601/154626757-54439171-8251-4a9c-a35d-6a985810e6c3.png)
+
+
 # Scope: -
 
 => Create a kubernetes cluster.
